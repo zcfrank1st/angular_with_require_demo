@@ -17,6 +17,6 @@ require([
     'app',
     'router',
     'controller'
-], function(angular){
+], function (angular) {
     angular.bootstrap(document, ['myApp']);
 });
